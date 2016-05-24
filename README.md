@@ -1,0 +1,1 @@
+# Spa_Template_Cordova
